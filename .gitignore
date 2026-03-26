@@ -1,0 +1,85 @@
+# =============== #
+# Unity Generated  #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ============ #
+# Memory Snaps  #
+# ============ #
+/[Mm]emoryCaptures/
+
+# ============= #
+# Asset Bundles  #
+# ============= #
+/[Aa]sset[Bb]undles/
+
+# ===================== #
+# Visual Studio / Rider  #
+# ===================== #
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+
+# ============ #
+# OS Generated  #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ======== #
+# Packages #
+# ======== #
+# Uncomment if you want to ignore packages
+# /Packages/
+
+# =============== #
+# Crash Reports   #
+# =============== #
+sysinfo.txt
+crashlytics-build.properties
+
+# ======== #
+# Builds   #
+# ======== #
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ============= #
+# Aseprite Files #
+# ============= #
+*.ase
+*.aseprite
+
+# ========== #
+# FMOD Files #
+# ========== #
+/Assets/Plugins/FMOD/
+fmod_editor_cache/
