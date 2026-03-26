@@ -1,21 +1,21 @@
-# 🏴‍☠️ La Isla del Tesoro - Videojuego
+#  La Isla del Tesoro - Videojuego
 
 ## Descripción General
 Juego Metroidvania en 2D basado en la novela clásica *La Isla del Tesoro* de Robert Louis Stevenson. El jugador explora distintos escenarios de forma no lineal, resolviendo puzzles y enfrentando enemigos para avanzar en la historia.
 
 ---
 
-## 🎮 Género
+##  Género
 Metroidvania / Aventura / Exploración
 
 ---
 
-## 🖥️ Plataforma Objetivo
+##  Plataforma Objetivo
 - PC (publicado y actualizado en internet)
 
 ---
 
-## ⚙️ Tecnologías
+##  Tecnologías
 | Herramienta | Uso |
 |-------------|-----|
 | Unity | Motor de juego principal |
@@ -26,7 +26,7 @@ Metroidvania / Aventura / Exploración
 
 ---
 
-## 📖 Historia
+##  Historia
 El juego se divide en 3 actos:
 
 **Acto 1 - Conociendo al Capitán Bilbo**
@@ -40,7 +40,7 @@ El juego se divide en 3 actos:
 
 ---
 
-## 🕹️ Jugabilidad
+##  Jugabilidad
 - **Vista:** Lateral (side-scroller)
 - **Desplazamiento:** Lateral y vertical no lineal
 - **Herramientas:** Pistola, Mosquete y Llaves
@@ -49,7 +49,7 @@ El juego se divide en 3 actos:
 
 ---
 
-## 👾 Mecánicas
+##  Mecánicas
 - Gravedad constante para objetos y personajes
 - Colisiones sólidas
 - Física de proyectiles
@@ -59,7 +59,7 @@ El juego se divide en 3 actos:
 
 ---
 
-## 👥 Equipo
+##  Equipo
 | Nombre | Usuario GitHub |
 |--------|---------------|
 | Miguel Mirkof Becerra Guzmán | [mirkof13](https://github.com/mirkof13) |
@@ -69,10 +69,10 @@ El juego se divide en 3 actos:
 
 ---
 
-## 🚀 Instrucciones para Ejecutar el Proyecto
+## Instrucciones para Ejecutar el Proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/mirkof13/la-isla-del-tesoro.git
+   git clone https://github.com/Mirkof13/La-isla-del-tesoro-Mutlimedia.git
    ```
 2. Abrir el proyecto con **Unity** (versión recomendada: 2022.x o superior)
 3. Abrir la escena principal desde `Assets/Scenes/`
@@ -80,7 +80,7 @@ El juego se divide en 3 actos:
 
 ---
 
-## 🌿 Flujo de Trabajo Git
+##  Flujo de Trabajo Git
 Este proyecto utiliza un flujo Git simplificado. Consulta [GIT_WORKFLOW.md](GIT_WORKFLOW.md) para más detalles.
 
 - `main` — Rama de producción estable
@@ -89,10 +89,5 @@ Este proyecto utiliza un flujo Git simplificado. Consulta [GIT_WORKFLOW.md](GIT_
 
 ---
 
-## 📌 Estado del Proyecto
+##  Estado del Proyecto
 > 🟡 **En desarrollo — Fase de prototipo inicial**
-
----
-
-## 📄 Licencia
-MIT License — Ver [LICENSE](LICENSE)
